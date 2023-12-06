@@ -1,5 +1,6 @@
 GAN-generated NFT Collection
 ============================
+![image](https://github.com/agulati18/GAN-Generated-NFT-Collection/assets/67696969/7542871f-ced0-43df-8ad8-734ed94b4c8d)
 
 Team: Aryaman Gulati, Ben Eibl, Kartikeya Agarwal
 
