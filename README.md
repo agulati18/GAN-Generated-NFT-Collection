@@ -12,7 +12,7 @@ The aim of this project was to explore the application of Generative Adversarial
 Results:
 --------
 
-The team generated a non-extensive collection of GAN-generated NFTs, and the output was almost believable as part of the original collections. Figures 1a and 1b show the Crypto Punks and Crypto Corgis generated after 500 epochs, respectively, while Figures 2a and 2b show the Cryptopunk style Cryptocorgis and Cryptocorgi style Cryptopunks, respectively, generated from the CycleGAN after 200 epochs. Although the style transfer did not work as well as expected in some cases, it produced some interesting outputs, such as using features from the source, such as sunglasses, on the output.
+The team generated a non-extensive collection of GAN-generated NFTs, and the output was almost believable as part of the original collections. Although the style transfer did not work as well as expected in some cases, it produced some interesting outputs, such as using features from the source, such as sunglasses, on the output.
 
 
 Extensions:
